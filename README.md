@@ -1,4 +1,4 @@
 its-rostock
 ===========
 
-Firmware for the Rostock RepRap
+Marlin firmware for the Rostock RepRap
