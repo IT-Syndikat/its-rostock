@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+
 its-rostock
 ===========
 
 Marlin firmware for the Rostock RepRap
-=======
+
+
 ==========================
 Marlin 3D Printer Firmware
 ==========================
