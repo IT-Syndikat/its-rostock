@@ -1,7 +1,7 @@
 its-rostock
 ===========
 
-Marlin firmware for the Rostock RepRap
+Marlin firmware for the Rostock RepRap with modification for the IT-Syndikat hackerspace
 
 Quick Information
 ===================
