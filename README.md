@@ -3,6 +3,12 @@ its-rostock
 
 Marlin firmware for the Rostock RepRap with modification for the IT-Syndikat hackerspace
 
+usefull codes:
+*   G1 X0 Y0 Z10 F15000 # move to absolute position X/Y/Z with a feedrate of 15000 steps/min (quite fast!)
+*   M114                # print current position
+*   M302                # allow cold extrudes (for testing the extruder stepper without heating the hot-end)
+
+
 Quick Information
 ===================
 This RepRap firmware is a mashup between <a href="https://github.com/kliment/Sprinter">Sprinter</a>, <a href="https://github.com/simen/grbl/tree">grbl</a> and many original parts.
