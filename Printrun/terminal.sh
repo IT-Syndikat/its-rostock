@@ -1,0 +1,1 @@
+/home/albert/RepRap/Printrun/skeinforge/terminal.sh
