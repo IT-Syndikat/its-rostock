@@ -251,8 +251,3 @@ Click the Upload button
 If all goes well the firmware is uploading
 
 That's ok.  Enjoy Silky Smooth Printing.
-
-
-
-
->>>>>>> 25b2bf334a6c66b73654ab0ef03621c9b980f759
