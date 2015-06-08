@@ -1,6 +1,8 @@
 its-rostock
 ===========
 
+Maintainer: Lux
+
 Marlin firmware for the Rostock RepRap with modification for the IT-Syndikat hackerspace
 
 usefull codes:
